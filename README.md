@@ -1,6 +1,6 @@
 # 👋 Hi, I'm PhonPhong!
 
-Welcome to my GitHub profile! I am a backend developer passionate about building robust, scalable, and secure applications using Java. Currently focused on developing backend systems with Spring Boot, JWT, and OAuth2, I am always looking to explore new technologies and solve challenging problems.
+Welcome to my GitHub profile! I am a backend developer passionate about building robust, scalable, and secure applications using Java. Currently focused on developing backend systems with Spring Boot, .NET. I am always looking to explore new technologies and solve challenging problems.
 
 - 💼 Backend Developer specializing in Java and Spring Boot.
 - 📫 Contact me at [nguyendinhphong1518@gmail.com](mailto:nguyendinhphong1518@gmail.com)
@@ -35,4 +35,5 @@ Welcome to my GitHub profile! I am a backend developer passionate about building
 
 ---
 
-Thank you for visiting my profile! 😊 Feel free to reach out or explore my projects to see more of my work.
+Thank you for visiting! 
+😊 Feel free to reach out or explore my projects to see more of my work.
