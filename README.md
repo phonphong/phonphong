@@ -28,7 +28,6 @@
 ---
 
 ### 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phonphong&layout=compact&theme=radical)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=phonphong&show_icons=true&theme=transparent&hide_border=true" alt="PhonPhong's GitHub stats" />
