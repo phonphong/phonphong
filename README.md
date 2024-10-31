@@ -1,39 +1,37 @@
-# 👋 Hi, I'm PhonPhong!
+<h1 align="center">Hi there, I'm Phong 👋</h1>
 
-Welcome to my GitHub profile! I am a backend developer passionate about building robust, scalable, and secure applications using Java. Currently focused on developing backend systems with Spring Boot, .NET. I am always looking to explore new technologies and solve challenging problems.
-
-- 💼 Backend Developer specializing in Java and Spring Boot.
-- 📫 Contact me at [nguyendinhphong1518@gmail.com](mailto:nguyendinhphong1518@gmail.com)
-- 🌱 Currently exploring advanced C# concepts and .NET development.
+<p align="center">
+  Backend Developer | Java & Spring Boot Enthusiast
+</p>
 
 ---
 
-### 🛠️ Technologies & Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+### 👨‍💻 About Me
+- 🌱 I’m currently deepening my knowledge in **Java**, **Spring Boot**, and exploring **C#** for .NET development.
+- 💼 I'm passionate about building efficient backend systems and scalable architectures.
+- 📫 How to reach me: nguyendinhphong1518@gmail.com
+- 🌍 Linkedin: https://www.linkedin.com/in/nguyendinh1518/
 
 ---
 
-### 📂 Featured Projects
-
-- [SpringSecurity6-JWT-Oauth2.0](https://github.com/phonphong/SpringSecurity6-JWT-Oauth2.0): A complete template for authentication and authorization using Spring Boot, JWT, and OAuth2.0. This project demonstrates secure user access management in Java backend development.
-- [Management_Restaurant](https://github.com/phonphong/Manage-Restaurant): A restaurant management system built using .NET 8 with a REST API backend. It handles operations like order management, table reservations, and user feedback.
-
----
-
-### 📊 GitHub Stats
-![PhonPhong's GitHub stats](https://github-readme-stats.vercel.app/api?username=phonphong&show_icons=true&theme=radical)
-
----
-
-### 🚀 Recent Activity
-- 🛠 Updated project [Management_Restaurant](https://github.com/phonphong/Manage-Restaurant) with new API endpoints.
-- 🔧 Contributed to [SpringSecurity6-JWT-Oauth2.0](https://github.com/phonphong/SpringSecurity6-JWT-Oauth2.0) with enhanced JWT configurations.
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-Thank you for visiting! 
-😊 Feel free to reach out or explore my projects to see more of my work.
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phonphong&show_icons=true&theme=transparent&hide_border=true" alt="PhonPhong's GitHub stats" />
+</p>
+
+---
+
+<p align="center">Thanks for visiting! 😊</p>
