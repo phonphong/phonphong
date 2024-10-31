@@ -1,0 +1,5 @@
+## ☁️ Weather
+
+- **Today's Weather Table:**
+```shell
+{{ template "hourly-table" $todayWeather.HourlyWeathers }}
