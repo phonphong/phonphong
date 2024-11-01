@@ -23,14 +23,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-## ☁️ Weather
-![Weather](https://img.shields.io/badge/Weather-Quy_Nhon-30%C2%B0C-yellow?style=flat-square)
 
-- **Điều kiện**: Sunny
-- **Tốc độ gió**: 5.0 kph
-- **Độ ẩm**: 65%
----
 
 ### 📈 GitHub Stats
 
